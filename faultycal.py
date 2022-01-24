@@ -1,3 +1,4 @@
+# You have to create a faulty calculator which provides wrong result only in these particular cases. Case1- 56+9=77, Case2- 45*3=555, Case3- 56/6=4.
 def calculator():
     operation = input('''
     Please type in the math operation you would like to complete:
